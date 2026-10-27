@@ -1,0 +1,15 @@
+{
+  "name": "학습 플래너",
+  "short_name": "플래너",
+  "description": "교재와 목표 날짜만 입력하면 하루 분량을 나눠 주는 학습 플래너",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "lang": "ko",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
